@@ -1,4 +1,4 @@
-# Experiment 8: Reproducing an Image Using Prompts for Image Generation
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5dfc26d0-4f49-4d50-a5a8-73fe4ea67c56" /># Experiment 8: Reproducing an Image Using Prompts for Image Generation
 ```
 Name : Bharathganesh S
 Reg No : 212222230022
@@ -33,28 +33,51 @@ The goal is to identify key elements within the image and use these details to g
    - Compared the generated output with the original and refined the prompt if needed.
 
 ---
-##  Image 1 – Girl Sitting on a Park Bench
-
+##  Image 1
 ###  Original Image
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dc80833d-9f2c-4ae1-aeb9-6416e3fbe312" />
+
 ### Prompt Development
-
 #### **Basic Prompt**
-> A girl sitting on a park bench under a tree.
-
+```
+A waterfall at sunset.
+```
 #### **Refined Prompt**
-> A realistic image of a young woman sitting on a wooden park bench under a large oak tree during autumn. Golden leaves scattered on the ground, warm sunlight filtering through the branches, calm and serene mood.
+```
+Majestic waterfall at sunrise, glowing with golden light. Shot from a cliff, showing a vibrant sunburst in the sky. Dark cliffs and misty water below.
+```
 
 #### **Final Prompt Used**
-> Realistic digital artwork of a young woman sitting on a park bench beneath a tall oak tree with golden autumn leaves. Sunlight rays filtering through branches, warm soft light, natural background, peaceful mood, ultra-detailed, high resolution.
-
----
+```
+Dramatic, hyperrealistic photograph of a wide waterfall at golden hour. Sunburst and light rays over dark, rugged cliffs.
+```
 
 ###  Generated Image
+#### **Basic Prompt**
 
----
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/255665f9-89d2-4d0c-88be-5130e2a67a24" />
+
+#### **Refined Prompt**
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d05c7ba2-a522-4008-b800-7f7e59dd11ca" />
+
+#### **Final Prompt Used**
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/73b3f909-f0b2-46e1-92e8-4f857593baac" />
+
+
 
 ### 🔍 Comparison Report
+
+| Aspect      | Original                                  | Generated                                   | Observation                              |
+| ----------- | ----------------------------------------- | ------------------------------------------- | ---------------------------------------- |
+| Objects     | Waterfall, cliffs, sun, clouds, mountains | Same                                        | All elements present.                    |
+| Colors      | Golden-orange sunset, dark blues/greys    | Golden-orange sunset, brighter blues/greens | Close match; less moody.                 |
+| Lighting    | Golden hour, dramatic rays                | Golden hour, softer rays                    | Good match; fewer atmospheric details.   |
+| Composition | Cliff view, waterfall left                | Cliff view, waterfall centered              | General match; less precise.             |
+| Style       | Hyperrealistic, epic                      | Realistic, less epic                        | Style close but toned down.              |
+| Key Element | Misty spray, rugged cliffs                | Misty spray, softer cliffs                  | Key features present but softer texture. |
 
 
 
@@ -64,7 +87,7 @@ The composition, tone, and realism were successfully maintained through careful 
 
 
 
-##  Example 2: 
+##  Image 2 : 
 ### Original Image
 ![tiger](https://github.com/user-attachments/assets/485d77dd-93b4-4f00-ab97-73a53393e54e)
 
