@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5dfc26d0-4f49-4d50-a5a8-73fe4ea67c56" /># Experiment 8: Reproducing an Image Using Prompts for Image Generation
+# Experiment 8: Reproducing an Image Using Prompts for Image Generation
 ```
 Name : Bharathganesh S
 Reg No : 212222230022
